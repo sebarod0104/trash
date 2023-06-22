@@ -1,0 +1,2 @@
+# trash
+Manage trash feature
