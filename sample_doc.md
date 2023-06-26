@@ -1,4 +1,4 @@
-This documentation describes how to use the Sensodyne automatic toothbrush.
+This documentation describes how to use the Vedshakti manual toothbrush.
 
 Note this toothbrush is totally safe to use for children, adults, and pets.
 
