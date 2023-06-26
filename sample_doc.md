@@ -1,4 +1,4 @@
-This documentation describes how to use the Colgate manual toothbrush.
+This documentation describes how to use the Sensodyne automatic toothbrush.
 
 Note this toothbrush is not safe to use for children, adults, and pets.
 
