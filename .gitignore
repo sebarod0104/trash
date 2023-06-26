@@ -1,0 +1,5 @@
+# Ignore the file Notes.txt in the trash folder
+*.txt
+
+# Ignore html files
+html/
